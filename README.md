@@ -1,9 +1,13 @@
-## Making a plan
-1) Make a drawing of your app. Simple "wireframes"
-2) Once you have a drawing, name the HTML elements you'll need to realize your vision
-3) For each HTML element ask: Why do I need this?
-    - This is your pseudocode
-4) Once we know _why_ we need each element, think about how to implement the "Why" as a "How"
-5) Is there some state we need to initialize?
-6) Find all the 'events' (user clicks, form submit, etc) in your app. Ask one by one, "What happens when" for each of these events.
-7) Think about how to validate each of your steps
+Objective:							0/10
+Create a cool, funny, fun-to-use Mad Lib web page with well-crafted code
+As measured by:
+Key Result (KR) 1:						0/2
+Deployed on GitHub pages, with link in the About section of the Github repo
+KR 2:									0/2
+Nice styling and semantic HTML	
+KR 3:									0/2
+Inputs (with ids) and Spans (with corresponding ids) for each word that will be replaced in Mad Lib	
+KR 4:									0/2
+On clicking the submit button, show the Mad Lib text (initially hidden)	
+KR 5:									0/2
+On clicking the submit button, replace <span/>s with the correct words from text inputs	
